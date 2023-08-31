@@ -402,6 +402,7 @@
 }
 
 button {
+    cursor: pointer;
     text-transform: uppercase;
     font-weight: 500;
     background-color: inherit;
